@@ -1,0 +1,22 @@
+body
+{
+background-color: rgb(223, 182, 223);
+background: linear-gradient(100deg, rgb(218, 218, 218) 0%, rgb(223, 182, 223) 10%, rgb(210, 133, 212) 40%, rgb(246, 45, 253) 60%, rgb(0, 0, 0) 100%);  
+color: purple;
+}
+.Container
+{
+border: 3px solid grey;
+width: 60%;
+text-align: center;
+margin: 1% auto;
+padding:1%;
+}
+input,button
+{
+  font-size:1.5em;
+  color: grey;
+  background-color: white;
+  margin:1%;
+  padding:1%;
+}
