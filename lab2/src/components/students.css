@@ -1,0 +1,16 @@
+.student-table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+  }
+  .student-table td,
+  .student-table th {
+    border: 1px solid #ddd;
+    padding: 8px 0px;
+    text-align: center;
+  }
+  .student-table th {
+    background-color: #0c134f;
+    color: white;
+  }
